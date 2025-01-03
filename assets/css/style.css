@@ -600,6 +600,10 @@ header a.logo img {
    Page Piling
 ====================================== */
 
+.career_p{
+    font-size: 16px;
+}
+
 #pp-nav li .active span, .pp-slidesNav .active span {
     background-color: #a8ff53;
 }
