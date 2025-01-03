@@ -56,7 +56,7 @@ section{padding: 0;}
 .padding-top {padding-top: 7.5rem;}
 ::selection {background-color: #a8ff53; color: #ffffff;}
 .btn-cyan {background-color: #a8ff53; font-weight: 300 !important; border-radius: 3px !important;}
-a.btn-cyan {color:white !important;}
+a.btn-cyan {color:#2b3033;}
 
 /* transition none */
 .no-transition *{transition-timing-function:initial; -moz-transition-timing-function:initial; -webkit-transition-timing-function:initial; -o-transition-timing-function:initial; -ms-transition-timing-function:initial; transition-duration: 0s; -moz-transition-duration: 0s; -webkit-transition-duration: 0s; -o-transition-duration: 0s; -ms-transition-duration: 0s;}
