@@ -1626,6 +1626,11 @@ header a.logo img {
     animation-iteration-count: infinite;
 }
 
+.cus_social_icon .fa-brands {
+    font-size: 30px;
+    padding: 0 5px;
+}
+
 /* ===================================
    Media Queries
 ====================================== */
